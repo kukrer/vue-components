@@ -1,5 +1,5 @@
 {
-  "name": "@avalabs/vue_components",
+  "name": "@savannah-labs/vue_components",
   "version": "0.10.0",
   "main": "dist/index.umd.js",
   "scripts": {
@@ -17,14 +17,14 @@
     "vue": "^2.6.11"
   },
   "peerDependencies": {
-    "@avalabs/avalanche-wallet-sdk": "^0.11.x"
+    "@savannah-labs/savannah-wallet-sdk": "0.12.1"
   },
   "devDependencies": {
-    "@avalabs/avalanche-wallet-sdk": "0.11.1-beta.1",
+    "@savannah-labs/savannah-wallet-sdk": "0.12.1",
+    "@savannah-labs/savannahjs": "3.10.1",
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
-    "avalanche": "^3.10.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.1.2",
@@ -51,12 +51,12 @@
   "description": "A collection of Vue based components to be used across AVA frontend applications.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ava-labs/vue_components.git"
+    "url": "git+https://github.com/kukrer/vue_components.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ava-labs/vue_components/issues"
+    "url": "https://github.com/kukrer/vue_components/issues"
   },
-  "homepage": "https://github.com/ava-labs/vue_components#readme"
+  "homepage": "https://github.com/kukrer/vue_components#readme"
 }

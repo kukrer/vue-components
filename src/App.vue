@@ -37,7 +37,7 @@
     import bignum_input from "./bignum_input";
     import CopyText from "./CopyText";
 
-    import {BN} from '@avalabs/avalanche-wallet-sdk'
+    import {BN} from '@savannah-labs/savannah-wallet-sdk'
 
     export default {
         data(){
