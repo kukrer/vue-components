@@ -20,7 +20,7 @@
     "@savannah-labs/savannah-wallet-sdk": "^0.17.2"
   },
   "devDependencies": {
-    "@savannah-labs/savannah-wallet-sdk": "^0.17.2",
+    "@savannah-labs/savannah-wallet-sdk": "^0.18.1",
     "@savannah-labs/savannahjs": "^3.15.3",
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
